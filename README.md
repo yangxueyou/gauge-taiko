@@ -9,7 +9,7 @@
 
 3. 安装gauge
 
-> npm install @getgauge/cli
+> npm install @getgauge/cli -g
 
 4. 初始化项目
 
